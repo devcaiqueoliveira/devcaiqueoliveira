@@ -1,8 +1,8 @@
-# 👨🏾‍💻 Caique Oliveira Santos
+# Olá 👋
 
 **`Desenvolvedor Back-End`**
 
-Olá, eu sou Caique Oliveira Santos, desenvolvedor Back-End com foco em Java e atualmente cursando Engenharia de Software, estou no LinkedIn como "[Caique O Santos](https://www.linkedin.com/in/devcaiqueoliveira/)"
+Sou Caique Oliveira Santos, desenvolvedor Back-End com foco em Java e atualmente cursando Engenharia de Software, estou no LinkedIn como "[Caique O Santos](https://www.linkedin.com/in/devcaiqueoliveira/)"
 
 <p align="left"> 
     <a href="https://github.com/devcaiqueoliveira?tab=repositories&sort=stargazers">
