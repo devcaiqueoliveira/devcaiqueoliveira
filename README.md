@@ -25,7 +25,7 @@ Sou Caique Oliveira Santos, desenvolvedor Back-End com foco em Java e atualmente
 
 ### 🤖 Linguagens e Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,docker,postgres,mysql,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,docker,postgres,mysql,mongodb,git,github)](https://skillicons.dev)
 
 <br/>
 <br/>
