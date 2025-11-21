@@ -26,39 +26,10 @@ Olá, eu sou Caique Oliveira Santos, desenvolvedor Back-End com foco em Java e a
 ### 🤖 Linguagens e Tecnologias
 
 
-![COBOL](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JAVA](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
-<img 
-    align="left" 
-    alt="Sql" 
-    title="Sql"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src=
-            "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
-/>
-
-<img 
-    align="left" 
-    alt="Sql" 
-    title="Sql"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src=
-            "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
-/>
-
-
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
+[![My Skills](https://skillicons.dev/icons?i=java,spring,docker,postgres,mysql,git,github)](https://skillicons.dev)
 
 <br/>
 <br/>
